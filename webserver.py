@@ -14,7 +14,7 @@ import webbrowser
 import BaseHTTPServer
 import SimpleHTTPServer
 
-FILE = 'frontend.html'
+FILE = 'api.py'
 PORT = 8080
 
 
