@@ -2,3 +2,5 @@ threading
 webbrowser
 BaseHTTPServer
 SimpleHTTPServer
+pytextnow
+sys
